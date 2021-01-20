@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c916f256aa1ff3468d0988d750614d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tomatoFab: {fileID: 4182195171976248132, guid: 2ef0fa8625faa6e4fb4d5346d0230f65,
+      type: 3}
+  - tomato: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
